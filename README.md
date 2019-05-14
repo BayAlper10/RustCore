@@ -2,35 +2,35 @@
 MineFox Rust Core
 
 # Items
-Deagle: 290
-Pump-Rifle: 291
-M4A1: 292
-AK47: 293
-RPG: 294
+Deagle: 290<br>
+Pump-Rifle: 291<br>
+M4A1: 292<br>
+AK47: 293<br>
+RPG: 294<br>
 Mine: 151
 
 # Kit
-Bandage: 339
+Bandage: 339<br>
 Kit: 281
 
 # Crates Key
 399: Key
 
 # Commands
-Simple Epin
-Simple Home
-Simple Economy
-Simple Land
-Simple BanWarn
-Simple Feed
-Simple Fly
-Simple Kit
-Simple Spawn
-Advanced Craft
-Advanced Friends
-Advanced Sell
+Simple Epin<br>
+Simple Home<br>
+Simple Economy<br>
+Simple Land<br>
+Simple BanWarn<br>
+Simple Feed<br>
+Simple Fly<br>
+Simple Kit<br>
+Simple Spawn<br>
+Advanced Craft<br>
+Advanced Friends<br>
+Advanced Sell<br>
 Advanced Shop
 
 # Extra
-Simple Form System
+Simple Form System<br>
 Advanced Sqlite Database
