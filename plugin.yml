@@ -1,7 +1,7 @@
 name: Rust
 main: Rust\Main
 version: 2.1
-api: 3.0.0
+api: [3.0.0, 4.0.0]
 load: POSTWORLD
 description: MineFox Network Core Plugin
 author: BayAlper10
