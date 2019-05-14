@@ -33,4 +33,6 @@ Advanced Shop
 
 # Extra
 Simple Form System<br>
-Advanced Sqlite Database
+Advanced Sqlite Database<br>
+Advanced Tag System<br>
+Advanced Tag Permission
