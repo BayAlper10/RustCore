@@ -33,6 +33,7 @@ Advanced Shop
 
 # Extra
 Simple Form System<br>
+Simple AntiCommand<br>
 Advanced Sqlite Database<br>
 Advanced Tag System<br>
 Advanced Tag Permission
