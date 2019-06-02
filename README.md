@@ -19,6 +19,7 @@ Kit: 281
 # Commands
 Simple Epin<br>
 Simple Home<br>
+Simple Tag<br>
 Simple Economy<br>
 Simple Land<br>
 Simple BanWarn<br>
